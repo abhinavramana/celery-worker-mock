@@ -1,0 +1,13 @@
+gradio==3.20.1
+addict
+albumentations
+controlnet-aux
+diffusers
+invisible-watermark
+kornia
+prettytable
+safetensors
+test-tube
+torchmetrics
+webdataset
+yapf
